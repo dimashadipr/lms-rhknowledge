@@ -1,0 +1,1 @@
+s:304:"<strong>Stack trace: </strong> <ul style="text-align:left;"><li>line 228 of /mod/quiz/locallib.php: moodle_exception thrown</li><li>line 2460 of /mod/quiz/locallib.php: call to quiz_start_new_attempt()</li><li>line 111 of /mod/quiz/startattempt.php: call to quiz_prepare_and_start_new_attempt()</li></ul>";

@@ -1,0 +1,40 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:9:{i:102;O:8:"stdClass":11:{s:2:"id";s:2:"64";s:2:"cm";s:3:"102";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:3:"309";s:6:"module";s:1:"9";s:5:"added";s:10:"1634690930";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:13:"Announcements";}i:135;O:8:"stdClass":14:{s:2:"id";s:2:"13";s:2:"cm";s:3:"135";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:9:"sectionid";s:3:"310";s:6:"module";s:2:"17";s:5:"added";s:10:"1641212745";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:57:"Handout Topik 1 - Konsep dan Ruang Lingkup Manajemen Data";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:136;O:8:"stdClass":14:{s:2:"id";s:2:"14";s:2:"cm";s:3:"136";s:3:"mod";s:8:"resource";s:7:"section";s:1:"2";s:9:"sectionid";s:3:"311";s:6:"module";s:2:"17";s:5:"added";s:10:"1641213196";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:56:"Handout Topik 2 - Konsep dan Ruang Lingkup Analisis Data";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:137;O:8:"stdClass":14:{s:2:"id";s:2:"15";s:2:"cm";s:3:"137";s:3:"mod";s:8:"resource";s:7:"section";s:1:"3";s:9:"sectionid";s:3:"312";s:6:"module";s:2:"17";s:5:"added";s:10:"1641213361";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:36:"Handout Topik 3 - Data Preprosessing";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:138;O:8:"stdClass":14:{s:2:"id";s:2:"16";s:2:"cm";s:3:"138";s:3:"mod";s:8:"resource";s:7:"section";s:1:"5";s:9:"sectionid";s:3:"313";s:6:"module";s:2:"17";s:5:"added";s:10:"1641213929";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:40:"Handout Topik 4 - Statistik Deskriptif 1";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:139;O:8:"stdClass":14:{s:2:"id";s:2:"17";s:2:"cm";s:3:"139";s:3:"mod";s:8:"resource";s:7:"section";s:1:"6";s:9:"sectionid";s:3:"335";s:6:"module";s:2:"17";s:5:"added";s:10:"1641213968";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:40:"Handout Topik 5 - Statistik Deskriptif 2";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:141;O:8:"stdClass":14:{s:2:"id";s:2:"19";s:2:"cm";s:3:"141";s:3:"mod";s:8:"resource";s:7:"section";s:1:"6";s:9:"sectionid";s:3:"335";s:6:"module";s:2:"17";s:5:"added";s:10:"1641214213";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:12:"f/unknown-24";s:4:"name";s:41:"Data Set Topik 5 - Statistik Deskriptif 2";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:140;O:8:"stdClass":14:{s:2:"id";s:2:"18";s:2:"cm";s:3:"140";s:3:"mod";s:8:"resource";s:7:"section";s:1:"7";s:9:"sectionid";s:3:"336";s:6:"module";s:2:"17";s:5:"added";s:10:"1641214108";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:8:"f/pdf-24";s:4:"name";s:40:"Handout Topik 6 - Statistik Deskriptif 3";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}i:142;O:8:"stdClass":14:{s:2:"id";s:2:"20";s:2:"cm";s:3:"142";s:3:"mod";s:8:"resource";s:7:"section";s:1:"7";s:9:"sectionid";s:3:"336";s:6:"module";s:2:"17";s:5:"added";s:10:"1641214244";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:4:"icon";s:12:"f/unknown-24";s:4:"name";s:41:"Data Set Topik 6 - Statistik Deskriptif 3";s:10:"customdata";s:28:"a:1:{s:10:"printintro";i:1;}";}}s:12:"sectioncache";a:9:{i:0;O:8:"stdClass":4:{s:2:"id";s:3:"309";s:4:"name";s:58:"Pengantar Statistik dan Analisis Data Kesehatan Reproduksi";s:7:"summary";s:2691:"<p dir="ltr" style="text-align: left;"></p><p><span lang="IN"><strong>Penjelasanan Umum</strong></span></p><p><span lang="IN">Statistik adalah ilmu dimana kesimpulan dibuat
+tentang fenomena acak tertentu atas dasar bahan sampel yang relatif terbatas.
+Bidang statistik memiliki dua bidang utama: statistik matematika dan statistik
+terapan. Statistik terapan melibatkan penerapan metode statistik matematika
+untuk bidang studi tertentu, seperti ekonomi, psikologi, dan kesehatan
+masyarakat. </span></p>
+
+<p>Statistik dalam arti
+sempit berarti angka/data. Sedangkan dalam arti luas statistik sebagi suatu
+prosedur atau metode pengumpulan data, pengolahan data, analisis data dan
+penyajian data. Sedangkan penelitian adalah cara ilmiah untuk mendapatkan data dengan
+tujuan dan kegunaan tertentu. Data yang diperoleh melalui penelitian harus
+akurat, artinya data yang dihasilkan harus memenuhi kriteria: valid, reliabel
+dan obyektif. Valid artinya ketepatan/kecermatan pengukuran, artinya ketepatan
+antara data yang sesungguhnya terjadi pada obyek dengan data yang dapat
+dikumpulkan oleh peneliti. </p><p>Peran statistik dalam bidang kesehatan:</p><p></p><p><!--[if !supportLists]--><span lang="EN-GB"></span></p><p><ol><li><span lang="EN-GB">Mengukur status kesehatan masyarakat dan mengetahui permasalahan
+kesehatan</span></li><li><span lang="EN-GB">Membandingkan status kesehatan di satu tempat dengan tempat lain, atau
+membandingkan status kesehatan waktu lampau dengan saat sekarang</span></li><li><span lang="EN-GB">Monitoring terhadap pelaksanaan program kesehatan yang sedang
+dilaksanakan</span></li><li><span lang="EN-GB">Evaluasi terhadap kegagalan dan keberhasilan program kesehatan yang
+sedang dan telah dilaksanakan</span></li><li><span lang="EN-GB">Keperluan estimasi tentang kebutuhan pelayanan kesehatan</span></li><li><span lang="EN-GB">Perencanaan program kesehatan</span></li><li><span lang="EN-GB">Keperluan penelitian dan publikasi masalah-masalah kesehatan</span></li></ol></p><strong>Tujuan Pembelajaran<br></strong><div>
+
+<p><ol><li><span lang="IN">Peserta mampu
+memahami konsep dan ruang lingkup manajemen data dan analisa data</span></li><li><span lang="IN">Mampu melakukan
+pengelolaan data (data-preprosessing) – (recode, compute, if, merger, select)</span></li><li><span lang="IN">mampu melakukan
+analisa data deskriptif</span></li><li><span lang="IN">mampu melakukan
+analisa data secara bivariat (uji&nbsp;
+statistik beda proporsi, beda rata-rata, uji korelasi/regresi linier</span></li><li><span lang="IN">Mampu membuat interpretasi dan penyajian data menjadi suatu
+informasi</span></li></ol></p>
+
+
+
+
+
+
+
+
+
+</div>
+
+<br><p></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}i:1;O:8:"stdClass":3:{s:2:"id";s:3:"310";s:4:"name";s:49:"Topik 1 - Konsep dan Ruang Lingkup Manajemen Data";s:12:"availability";N;}i:2;O:8:"stdClass":3:{s:2:"id";s:3:"311";s:4:"name";s:48:"Topik 2 - Konsep dan Ruang Lingkup Analisis Data";s:12:"availability";N;}i:3;O:8:"stdClass":3:{s:2:"id";s:3:"312";s:4:"name";s:28:"Topik 3 - Data Preprosessing";s:12:"availability";N;}i:4;O:8:"stdClass":3:{s:2:"id";s:3:"337";s:4:"name";s:6:"Kuis 1";s:12:"availability";N;}i:5;O:8:"stdClass":3:{s:2:"id";s:3:"313";s:4:"name";s:32:"Topik 4 - Statistik Deskriptif 1";s:12:"availability";N;}i:6;O:8:"stdClass":3:{s:2:"id";s:3:"335";s:4:"name";s:32:"Topik 5 - Statistik Deskriptif 2";s:12:"availability";N;}i:7;O:8:"stdClass":3:{s:2:"id";s:3:"336";s:4:"name";s:32:"Topik 6 - Statistik Deskriptif 3";s:12:"availability";N;}i:8;O:8:"stdClass":3:{s:2:"id";s:3:"338";s:4:"name";s:14:"Evaluasi Akhir";s:12:"availability";N;}}s:9:"shortname";s:10:"KHKRI-SADK";s:8:"fullname";s:37:"Statistik dan Analisis Data Kesehatan";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1641214246";}

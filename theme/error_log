@@ -1,0 +1,165 @@
+[28-Sep-2021 02:36:57 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 08:40:41 Asia/Jakarta] PHP Warning:  is_readable(): open_basedir restriction in effect. File(/db/renamedclasses.php) is not within the allowed path(s): (/home:/tmp:/usr:/var/cpanel/php/sessions/:/opt/alt/) in /home/rhknowle/public_html/lms2/lib/classes/component.php on line 1210
+[28-Sep-2021 02:40:57 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 02:56:27 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 02:57:26 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 03:37:50 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 03:47:09 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 03:48:12 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 04:12:29 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 04:14:02 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[28-Sep-2021 04:15:34 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1273 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+
+[19-Oct-2021 23:35:02 Europe/London] Default exception handler: Error reading from database Debug: MySQL server has gone away
+SELECT RELEASE_LOCK(?) AS unlocked
+[array (
+  0 => '9088900fefe76105cec6ca97ac97f6db2b317783',
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1274 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1671 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 161 of /lib/classes/lock/mysql_lock_factory.php: call to moodle_database->get_record_sql()
+* line 107 of /lib/classes/lock/lock.php: call to core\lock\mysql_lock_factory->release_lock()
+* line 174 of /theme/styles.php: call to core\lock\lock->release()
+

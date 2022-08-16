@@ -1,0 +1,19 @@
+[Sat 30 Jul 2022 09:46:44 WIB] [info] instantiating backup controller 1e89f685cc9479af11cc0f39c47053a3
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting controller status to 100
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] loading controller plan
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting controller status to 300
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] applying plan defaults
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting controller status to 400
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting file inclusion to 
+[Sat 30 Jul 2022 09:46:44 WIB] [info] checking plan security
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting controller status to 700
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] saving controller to db
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] calculating controller checksum 4f26f010d59d20323b36484a2c0e7ba3
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] loading controller from db
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting file inclusion to 1
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] setting controller status to 800
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] saving controller to db
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] calculating controller checksum 25dd042b36c0c5cffc62c886153dade2
+[Sat 30 Jul 2022 09:46:44 WIB] [debug] loading controller from db
+[Sat 30 Jul 2022 09:46:46 WIB] [debug] setting controller status to 1000
+[Sat 30 Jul 2022 09:46:46 WIB] [debug] saving controller to db

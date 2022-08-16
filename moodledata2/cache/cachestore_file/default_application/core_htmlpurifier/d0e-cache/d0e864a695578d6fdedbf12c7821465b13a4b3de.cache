@@ -1,0 +1,1 @@
+s:213:"<strong>Stack trace: </strong> <ul style="text-align:left;"><li>line 275 of /course/classes/category.php: moodle_exception thrown</li><li>line 38 of /course/index.php: call to core_course_category::get()</li></ul>";
